@@ -5,6 +5,5 @@
 public class Main {
     public static void main(String[] args) {
         //AbstractApplicationContext context = new ClassPathApplicationContext("config.xml");
-        System.out.println("sdfg");
     }
 }
