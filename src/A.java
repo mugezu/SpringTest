@@ -3,4 +3,5 @@
  */
 public interface A {
     public void Hello();
+    public void KK();
 }

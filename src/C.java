@@ -6,4 +6,9 @@ public class C implements A {
     public void Hello() {
         System.out.println("Привет");
     }
+
+    @Override
+    public void KK() {
+
+    }
 }
